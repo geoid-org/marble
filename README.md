@@ -47,13 +47,10 @@
 
 ---
 
-
 ## About
-
 
 **Meta Marble** is map dataset.
 website: [www.marble.blue](https://www.marble.blue)
-
 
 ## Authors
 
@@ -64,17 +61,14 @@ This self-organizing network bridges our virtual and physical environments and i
 
 website: [www.geoid.org](https://www.geoid.org "Geoid website")
 
-
 ## Contributing
 
 We'd love for you to contribute and to make **Meta Marble** even better than it is today!
 Please refer to the [contribution guidelines](.github/CONTRIBUTING.md) for information.
 
-
 ## License
 
 Except where otherwise noted, **Meta Marble** by Geoid is licensed under the terms of the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International License"). To view a copy of this license, visit [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International License") or write to Creative Commons, 171 Second Street, Suite 300, San Francisco, CA 94105, USA.
-
 
 ## Disclaimer
 
